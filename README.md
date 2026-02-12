@@ -37,5 +37,4 @@ It supports both basic arithmetic operations and scientific functions like trigo
 - Implement memory functions (M+, M-, MR).
 - Replace eval() with a safer expression parser.
 - Extend scientific functions (e.g., asin, acos, atan).
-Would you like me to also create a diagram of the button layout grid (like a visual map of rows and columns) to include in the README? That would make it even more beginner-friendly.
 
